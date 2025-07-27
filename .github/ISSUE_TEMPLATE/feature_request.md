@@ -1,20 +1,23 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: I wish add the xxx function
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+- Briefly describe the function you expect
+简述你期望的功能
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+- What problem do you hope this function will solve？
+你希望这个功能解决什么问题？
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+- Give a similar effect or sketch you have seen
+给出你看到的类似效果或者草图
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+- If there is a specific third-party reference, please provide detailed operation steps
+如果有具体的第三方参考，请给出详细的操作步骤
+
+- Other supplements or attachments
+其他补充或者附件
